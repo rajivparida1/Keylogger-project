@@ -28,13 +28,14 @@ This is an educational keylogger application built using Python. It includes a s
    pip install -r requirements.txt
    ```
 
-2. Start the GUI:
+2. Start the APP:
 
    ```bash
-   python gui.py
+   python run.py
    ```
-
-3. Enter the GUI password (`admin123` by default) and start logging.
+   Once launched, a tray icon will appear in the system tray/menu area.
+   
+4. Enter the GUI password (`admin123` by default) and start logging.
 
 ---
 
