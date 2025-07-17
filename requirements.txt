@@ -1,0 +1,6 @@
+pynput
+pyperclip
+Pillow
+pywin32
+requests
+websockets

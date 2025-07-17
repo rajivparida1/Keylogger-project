@@ -1,0 +1,7 @@
+
+
+[Window: ModuleNotFoundError websockets Fix - Google Chrome - 2025-07-17 14:27:34]
+w
+[Clipboard - 2025-07-17 14:27:35]: pip install websockets
+
+h
